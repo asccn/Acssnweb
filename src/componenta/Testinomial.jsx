@@ -28,7 +28,7 @@ export default function Testinomials() {
             <div className="mob-hidden">
               <img
                 className="founderimg"
-                src="src/assets/founder.jpeg"
+                src="https://i.postimg.cc/3Nmr6d2p/founder.jpg"
                 alt="herochildren"
               />
             </div>
@@ -40,7 +40,7 @@ export default function Testinomials() {
               <div className="desktop-hidden">
                 <img
                   className="founderimg"
-                  src="/herochildren1.jpeg"
+                  src="https://i.postimg.cc/3Nmr6d2p/founder.jpg"
                   alt="herochildren"
                 />
               </div>
@@ -90,7 +90,7 @@ export default function Testinomials() {
             <div className="mob-hidden">
               <img
                 className="founderimg"
-                src="src/assets/cofounder.jpeg"
+                src="https://i.postimg.cc/W1nzTFCw/cofounder.jpg"
                 alt="herochildren"
               />
             </div>
@@ -102,7 +102,7 @@ export default function Testinomials() {
               <div className="desktop-hidden">
                 <img
                   className="founderimg"
-                  src="/herochildren1.jpeg"
+                  src="https://i.postimg.cc/W1nzTFCw/cofounder.jpg"
                   alt="herochildren"
                 />
               </div>

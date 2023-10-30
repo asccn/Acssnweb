@@ -1,4 +1,5 @@
 // import { useState } from "react";
+
 import Volunteer from "./componenta/volunteer";
 
 import { Link } from "react-scroll";
@@ -22,7 +23,11 @@ function App() {
     <>
       <header>
         <div className="logo">
-          <img className="logoimg" src="src/assets/logo.png" alt="logo" />
+          <img
+            className="logoimg"
+            src="https://i.postimg.cc/7ZWv3q2y/logo.png"
+            alt="logo"
+          />
         </div>
         <nav>
           <a href="#">Home</a>
@@ -102,7 +107,7 @@ function App() {
         <div className="right">
           <img
             className="herochildrenimg"
-            src="./assets/mainimg.jpeg"
+            src="https://i.postimg.cc/d03sFW8J/mainimg.jpg"
             alt="herochildren"
           />
         </div>
@@ -147,7 +152,7 @@ function App() {
       </section>
       <section className="aboutus">
         <div className="aboutus-img">
-          <img src="src/assets/logo.png" alt="" />
+          <img src="https://i.postimg.cc/7ZWv3q2y/logo.png" alt="" />
         </div>
         <div className="aboutus-right">
           <span className="aboutust titles">About us</span>
@@ -196,7 +201,11 @@ function App() {
         <div className="missionslist">
           <div className="mission1 mission">
             <div>
-              <img className="mission-img" src="src/assets/edu.webp" alt="" />
+              <img
+                className="mission-img"
+                src="https://i.postimg.cc/15SyXRpC/edu.webp"
+                alt=""
+              />
             </div>
             <div className="missiondiv">
               <h2>Education</h2>
@@ -207,7 +216,7 @@ function App() {
             <div>
               <img
                 className="mission-img"
-                src="src/assets/health.webp"
+                src="https://i.postimg.cc/mrPsJPsD/health.webp"
                 alt=""
               />
             </div>
@@ -220,7 +229,7 @@ function App() {
             <div>
               <img
                 className="mission-img"
-                src="src/assets/awareness.webp"
+                src="https://i.postimg.cc/9FPFYwmH/awareness.webp"
                 alt=""
               />
             </div>
@@ -233,7 +242,7 @@ function App() {
             <div>
               <img
                 className="mission-img"
-                src="src/assets/livelihood.webp"
+                src="https://i.postimg.cc/WzwLgrM9/livelihood.webp"
                 alt=""
               />
             </div>
@@ -261,21 +270,21 @@ function App() {
           <div className="workimg">
             <img
               className="workimg11"
-              src="src/assets/workimg1.jpeg"
+              src="https://i.postimg.cc/MKJpBm8Y/workimg1.jpg"
               alt="herochildren"
             />
           </div>
           <div className="workimg">
             <img
               className="workimg11"
-              src="src/assets/workimg2.jpeg"
+              src="https://i.postimg.cc/HkBYfG8S/workimg2.jpg"
               alt="herochildren"
             />
           </div>
           <div className="workimg">
             <img
               className="workimg11"
-              src="src/assets/workimg3.jpeg"
+              src="https://i.postimg.cc/Gmc373t8/workimg3.jpg"
               alt="herochildren"
             />
           </div>
@@ -286,7 +295,7 @@ function App() {
         <div className="help">
           <div className="help1">
             <div>
-              <img src="src/assets/Giving-Love.png" alt="" />
+              <img src="https://i.postimg.cc/W1WV5MxC/Giving-Love.png" alt="" />
             </div>
             <div className="helpdiv">
               <h2>Giving Love</h2>
@@ -298,7 +307,7 @@ function App() {
           </div>
           <div className="help1">
             <div>
-              <img src="src/assets/Donations.png" alt="" />
+              <img src="https://i.postimg.cc/jqPsRnJn/Donations.png" alt="" />
             </div>
             <div className="helpdiv">
               <h2>Donations</h2>
@@ -310,7 +319,10 @@ function App() {
           </div>
           <div className="help1 ">
             <div>
-              <img src="src/assets/Volunteering.png" alt="" />
+              <img
+                src="https://i.postimg.cc/HkxD8rj2/Volunteering.png"
+                alt=""
+              />
             </div>
             <div className="helpdiv">
               <h2>Volunteering</h2>
@@ -476,7 +488,11 @@ function App() {
 
       <footer>
         <div className="footer">
-          <img className="logoimg" src="src/assets/logo.png" alt="logo" />
+          <img
+            className="logoimg"
+            src="https://i.postimg.cc/7ZWv3q2y/logo.png"
+            alt="logo"
+          />
 
           <div className="followus">
             <h4 className="bg">Follow us</h4>
@@ -484,11 +500,11 @@ function App() {
               <a href="#">
                 <img
                   className="sicon bg"
-                  src="src/assets/facebook.png"
+                  src="https://i.postimg.cc/nhcZKdSq/facebook.png"
                   alt=""
                 />
               </a>
-              <a href="#">
+              {/* <a href="#">
                 <img className="sicon" src="src/assets/instagram.png" alt="" />
               </a>
               <a href="#">
@@ -496,7 +512,7 @@ function App() {
               </a>
               <a href="#">
                 <img className="sicon" src="src/assets/linkedin.png" alt="" />
-              </a>
+              </a> */}
             </div>
           </div>
           <div className="quicklinks">
