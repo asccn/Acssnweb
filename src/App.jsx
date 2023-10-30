@@ -102,7 +102,7 @@ function App() {
         <div className="right">
           <img
             className="herochildrenimg"
-            src="src/assets/mainimg.jpeg"
+            src="./assets/mainimg.jpeg"
             alt="herochildren"
           />
         </div>
