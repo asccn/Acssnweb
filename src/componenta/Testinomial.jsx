@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
-import "/Users/sujansince2003/suzancodes/ngoo/ngo/src/swipeer.css";
+import "./swipeer.css";
 
 // import required modules
 import { Navigation, Pagination, Mousewheel, Keyboard } from "swiper/modules";
