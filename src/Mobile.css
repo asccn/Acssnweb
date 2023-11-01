@@ -76,11 +76,13 @@ text-align: center;
 .feature1
 {
   display: flex;
+  flex-direction: column;
+  gap: 10px;
  
   align-items: center;
   padding: 50px 10px;
   width: 300px;
-  height: 150px;
+ 
 
 border-radius: 15px;
 box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -138,6 +140,11 @@ justify-content: flex-start;
   padding: 10px 0px;
  
 }
+.mainmission
+{
+font-size: 18px;
+padding: 20px ;
+}
 .missiontitle1
 {
   font-size: 18px;
@@ -164,8 +171,8 @@ justify-content: flex-start;
   justify-content: center;
   align-items: center;
   gap: 10px;
-  padding: 20px 0px;
-  border: 2px dotted black;
+ 
+ 
   
 }
 .ourworks p
@@ -189,13 +196,15 @@ justify-content: flex-start;
  
   padding: 20px 0px;
   gap: 10px;
- 
+
  
  }
  .workimg11
 {
   
   width: 300px;
+  padding: 0px 30px;
+ 
   
 
   }
@@ -209,6 +218,12 @@ justify-content: flex-start;
   .helpus h4
   {
     font-size: 30px;
+  
+  }
+  .helpus h3
+  {
+    font-size: 18px;
+    text-align: center;
   
   }
   .helpus .help
@@ -341,6 +356,14 @@ justify-content: flex-start;
   text-align: center;
   
 
+}
+.sicon
+{
+width: 30px;
+}
+.slinks
+{
+  gap: 5px;
 }
 .developer
 {

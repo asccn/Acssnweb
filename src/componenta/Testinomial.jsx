@@ -79,7 +79,7 @@ export default function Testinomials() {
                 </p>
                 <h3>
                   <span>Chija Sunar</span>
-                  <span>Founder & Chairperson,ASCCN</span>
+                  <span>Founder & Chairperson,ACSSN</span>
                 </h3>
               </div>
             </div>
@@ -131,7 +131,9 @@ export default function Testinomials() {
                 </p>
                 <h3>
                   <span>Rohit Karki</span>
-                  <span>Chief Adminitrator/Co-Founder/Project Coordinator</span>
+                  <span>
+                    Chief Adminitrator/Co-Founder/Project Coordinator,ACSSN
+                  </span>
                 </h3>
               </div>
             </div>
