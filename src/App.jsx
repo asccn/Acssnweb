@@ -196,7 +196,11 @@ function App() {
           </div>
           <div className="aboutus-right">
             <span className="aboutust titles">About us</span>
-            <h1 className="red-text">How We Are Making A Difference</h1>
+            <h1 className="red-text">
+              {" "}
+              “How we are aiming to make a difference in lives of Autistic
+              children”
+            </h1>
             <p>
               Autism Care and Support Society Nepal, Bardaghat-04, Nawalparasi
               (ACSSN) was founded on 7th August 2023. We are active autism
@@ -247,7 +251,7 @@ function App() {
             </p>
           </div>
           <div className="missionss">
-            <div className="missionslist">
+            {/* <div className="missionslist">
               <div className="mission1 mission">
                 <div>
                   <img
@@ -305,7 +309,7 @@ function App() {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
             <Faqcomp />
           </div>
         </section>

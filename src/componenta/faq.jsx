@@ -25,11 +25,6 @@ const faqs = [
 export default function App() {
   return (
     <div>
-      <div className="aim">
-        <p>
-          “How we are aiming to make a difference in lives of Autistic children”
-        </p>
-      </div>
       <Accordion data={faqs} />
     </div>
   );
