@@ -449,21 +449,33 @@ function App() {
                   href="https://api.whatsapp.com/send?phone=9864153866"
                   target="blank"
                 >
-                  <img className="sicon" src="src/assets/whatsapp.png" alt="" />
+                  <img
+                    className="sicon"
+                    src="https://i.postimg.cc/9FXbqtqG/whatsapp.png"
+                    alt=""
+                  />
                 </a>
 
                 <a href="#">
                   <img
                     className="sicon"
-                    src="src/assets/instagram.png"
+                    src="https://i.postimg.cc/yd9z62WC/instagram.png"
                     alt=""
                   />
                 </a>
                 <a href="#">
-                  <img className="sicon" src="src/assets/twitter.png" alt="" />
+                  <img
+                    className="sicon"
+                    src="https://i.postimg.cc/8PwgCRkc/twitter.png"
+                    alt=""
+                  />
                 </a>
                 <a href="#">
-                  <img className="sicon" src="src/assets/linkedin.png" alt="" />
+                  <img
+                    className="sicon"
+                    src="https://i.postimg.cc/nrJfXTQj/linkedin.png"
+                    alt=""
+                  />
                 </a>
               </div>
             </div>
