@@ -321,7 +321,9 @@ function App() {
             Clothe yourselves with compassion, kindness, humility, gentleness,
             volunteering, speard helping hands and open heart for autistic
             children for Nepal. This can help us feel a sense of belonging, make
-            new friends, and connect with our communities. “I am ready” ARE YOU?
+            new friends, and connect with our communities. “I am ready”
+            <br />
+            ARE YOU?
           </h3>
           <div className="help">
             <div className="help1">
