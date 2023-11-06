@@ -1,33 +1,34 @@
 // import { useState } from "react";
 
-import Volunteer from "./componenta/volunteer";
+// import Volunteer from "./componenta/volunteer";
 
-import { Link } from "react-scroll";
+// import { Link } from "react-scroll";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faLocationDot,
-  faPhone,
-  faEnvelope,
-  faPeopleGroup,
-  faHandshakeAngle,
-  faPersonCircleCheck,
-  faHandshake,
-} from "@fortawesome/free-solid-svg-icons";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import {
+//   faLocationDot,
+//   faPhone,
+//   faEnvelope,
+//   faPeopleGroup,
+//   faHandshakeAngle,
+//   faPersonCircleCheck,
+//   faHandshake,
+// } from "@fortawesome/free-solid-svg-icons";
 
-import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
+// import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 
-import "./App.css";
-import "./Mobile.css";
-import Testinomials from "./componenta/Testinomial";
-import Recentwork from "./componenta/recentwork";
-import Faqcomp from "./componenta/faq";
-import Donate from "./componenta/Donate";
+// import "./App.css";
+// import "./Mobile.css";
+// import Testinomials from "./componenta/Testinomial";
+// import Recentwork from "./componenta/recentwork";
+// import Faqcomp from "./componenta/faq";
+// import Donate from "./componenta/Donate";
 
 function App() {
   return (
     <>
-      <div className="maincontent">
+      <div>hello world</div>
+      {/* <div className="maincontent">
         <header>
           <div className="logo">
             <img
@@ -310,11 +311,11 @@ function App() {
                 </div>
               </div>
             </div> */}
-            <Faqcomp />
-          </div>
-        </section>
+      {/* <Faqcomp />
+          </div> */}
+      {/* </section> */}
 
-        <Recentwork />
+      {/* <Recentwork />
         <section className="helpus">
           <h4 className="red-text">How Can We Help Them?</h4>
           <h3>
@@ -562,7 +563,7 @@ function App() {
             </p>
           </div>
         </footer>
-      </div>
+      </div> */}
     </>
   );
 }
